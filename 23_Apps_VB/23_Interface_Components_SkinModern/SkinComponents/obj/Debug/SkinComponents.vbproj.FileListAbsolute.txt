@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\bin\Debug\SkinComponents.exe.config
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\bin\Debug\SkinComponents.exe
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\bin\Debug\SkinComponents.pdb
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\bin\Debug\SkinComponents.xml
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\bin\Debug\UIDC.dll
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.vbproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.vbproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.vbproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.exe.licenses
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.vbproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.vbproj.CopyComplete
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.exe
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.xml
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Interface_Components_SkinModern\SkinComponents\obj\Debug\SkinComponents.pdb
