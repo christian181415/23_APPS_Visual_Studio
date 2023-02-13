@@ -1,0 +1,16 @@
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\bin\Debug\Consulta Componentes.exe.config
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\bin\Debug\Consulta Componentes.exe
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\bin\Debug\Consulta Componentes.pdb
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\bin\Debug\Consulta Componentes.xml
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\bin\Debug\MaterialSkin.dll
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.vbproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.vbproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta_Componentes.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta_Componentes.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.vbproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.vbproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.vbproj.CopyComplete
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.exe
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.xml
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\obj\Debug\Consulta Componentes.pdb
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Use_All_Components_SQLServer\Consulta Componentes\bin\Debug\UIDC.dll

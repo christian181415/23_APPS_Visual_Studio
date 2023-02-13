@@ -1,0 +1,16 @@
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\bin\Debug\Consultas Componentes.exe.config
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\bin\Debug\Consultas Componentes.exe
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\bin\Debug\Consultas Componentes.pdb
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\bin\Debug\Consultas Componentes.xml
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.vbproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.vbproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas_Componentes.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas_Componentes.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.vbproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.vbproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.exe
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.xml
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.pdb
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\bin\Debug\UIDC.dll
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas Componentes.vbproj.CopyComplete
+C:\Users\chris\OneDrive\Escritorio\23_APPS_Visual_Studio\23_Apps_VB\23_Luin_Consult_All_Components_SQLServer\Consultas Componentes\obj\Debug\Consultas_Componentes.Registrar.resources
