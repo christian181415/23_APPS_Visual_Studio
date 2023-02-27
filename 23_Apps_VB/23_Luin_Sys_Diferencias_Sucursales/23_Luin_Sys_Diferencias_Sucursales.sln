@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Diferencias_Sucursales", "Diferencias_Sucursales\Diferencias_Sucursales.vbproj", "{BBF13D75-B748-4976-9CC2-6CDF2AA0B9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF13D75-B748-4976-9CC2-6CDF2AA0B9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF13D75-B748-4976-9CC2-6CDF2AA0B9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF13D75-B748-4976-9CC2-6CDF2AA0B9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF13D75-B748-4976-9CC2-6CDF2AA0B9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E67E985B-6D40-48B6-A2A9-4AEA382F9EE8}
+	EndGlobalSection
+EndGlobal
